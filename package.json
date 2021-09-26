@@ -1,0 +1,12 @@
+{
+  "name": "eleventy-quickstart",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "author": "MichaelCurrin",
+  "license": "MIT"
+}
