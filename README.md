@@ -4,6 +4,9 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/eleventy-quickstart?include_prereleases=&sort=semver&color=blue)](https://github.com/MichaelCurrin/eleventy-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
+[![Made with Node.js](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Package - @11ty/eleventy](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/eleventy-quickstart/@11ty/eleventy?color=blue)](https://www.npmjs.com/package/@11ty/eleventy)
+
 
 ## Preview
 
@@ -22,6 +25,8 @@ Set up your own project from this template.
 </div>
 
 Learn about Eleventy in my [Eleventy resources](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/eleventy/).
+
+This template is meant to be light and follow the pattern of a Jekyll project like [jekyll-blog-demo](https://github.com/MichaelCurrin/jekyll-blog-demo) to make it easy to migrate from Jekyll to Eleventy.
 
 
 ## Requirements
