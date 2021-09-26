@@ -1,4 +1,5 @@
 # Eleventy Quickstart
+> Starter template for a static site built with Eleventy
 
 Learn more in my [Eleventy resources](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/eleventy/).
 
