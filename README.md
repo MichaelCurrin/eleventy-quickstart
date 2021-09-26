@@ -24,9 +24,16 @@ Set up your own project from this template.
 
 </div>
 
-Learn about Eleventy in my [Eleventy resources](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/eleventy/).
+
+## About
+
+Eleventy is an static site generator built on JavaScript. You can install it from the NPM package registry. It was created as a simpler alternative to Jekyll.
+
+Learn about  in my [Eleventy resources](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/eleventy/).
 
 This template is meant to be light and follow the pattern of a Jekyll project like [jekyll-blog-demo](https://github.com/MichaelCurrin/jekyll-blog-demo) to make it easy to migrate from Jekyll to Eleventy.
+
+The website is really simple. Consider next steps as building out some styling and navigation yourself and installing a theme and plugins.
 
 
 ## Requirements
