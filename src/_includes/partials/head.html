@@ -2,9 +2,11 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
 
-<title>{{ title }}</title>
-<meta name="description" content="{{ description }}">
+<title>{{ title | append: ' :: ' | append: site.title }}</title>
+<meta name="description" content="{{ description | default: site.description }}">
 
-<link href="styles.css" rel="stylesheet">
+<link rel="canonical" href="{{ site.url }}" />
 
-<script defer src="main.js"></script>
+<link rel="stylesheet" href="assets/css/styles.css">
+
+<script defer src="assets/css/main.js"></script>

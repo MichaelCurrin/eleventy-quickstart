@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    {% include "head.html" %}
+    {% include partials/head.html %}
 </head>
 
 <body>
@@ -12,9 +12,9 @@
         <p><i>{{ description}}</i></p>
     </div>
 
-    <div>
+    <main>
         {{ content | safe }}
-    </div>
+    </main>
 </body>
 
 </html>
