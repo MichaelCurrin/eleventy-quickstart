@@ -4,6 +4,13 @@
 Learn more in my [Eleventy resources](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/eleventy/).
 
 
+## Preview
+
+<div align="center">
+    <img src="/sample.png" alt="Sample screenshot" width="300">
+</div>
+
+
 ## Requirements
 
 - Node.js
