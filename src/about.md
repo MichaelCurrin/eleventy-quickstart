@@ -1,6 +1,6 @@
 ---
 title: About
-layout: 'layouts/base.html'
+layout: layouts/page.html
 ---
 
 This site is built on Eleventy.
