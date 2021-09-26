@@ -1,8 +1,7 @@
 module.exports = function () {
-    return {
-        dir: {
-            input: 'src',
-        }
-
-    };
+  return {
+    dir: {
+      input: 'src',
+    }
+  };
 };
